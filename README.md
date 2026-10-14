@@ -61,11 +61,11 @@ Install the following before running the project:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/jobtrack.git
+git clone https://github.com/pkarki05/jobtrack.git
 cd jobtrack
 ```
 
-Replace `YOUR-USERNAME/jobtrack` with your actual GitHub repository URL.
+
 
 ### 2. Install dependencies
 
@@ -161,7 +161,6 @@ Create a `screenshots/` directory in your repository and replace these placehold
 
 ## 💡 Future Improvements
 
-- Drag-and-drop pipeline management, if not already fully implemented
 - Job description and resume matching
 - CSV export and import
 - Interview notes and preparation checklists
